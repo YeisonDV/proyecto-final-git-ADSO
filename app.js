@@ -1,5 +1,5 @@
 /*
-  Rama: feature/login
+  Rama: feature/dashboard
   Fecha: 24 noviembre 2025	
-  Descripción: Desarrollo del formulario de login, validación de credenciales y manejo de sesiones.
+  Descripción: Creación del panel administrativo con gráficos, métricas y navegación principal.
 */
